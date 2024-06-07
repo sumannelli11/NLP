@@ -1,0 +1,76 @@
+Course Outline:
+Week 1: Introduction to NLP
+Course overview and objectives
+History and applications of NLP
+Basic text processing and tokenization
+Week 2: Linguistic Essentials
+Morphology: words and their structure
+Syntax: sentence structure
+Semantics: meaning representation
+Week 3: Text Preprocessing
+Tokenization, stemming, lemmatization
+Stop word removal
+Text normalization
+Week 4: Language Models
+N-grams and smoothing techniques
+Neural language models
+Word embeddings (Word2Vec, GloVe)
+Week 5: Text Classification
+Bag-of-Words and TF-IDF
+Naive Bayes classifiers
+Support Vector Machines and Logistic Regression
+Week 6: Sequence Labeling
+Part-of-Speech tagging
+Named Entity Recognition (NER)
+Hidden Markov Models and Conditional Random Fields
+Week 7: Syntactic Parsing
+Dependency parsing
+Constituency parsing
+Treebanks and parsing algorithms
+Week 8: Semantic Analysis
+Semantic role labeling
+Word sense disambiguation
+Distributional semantics
+Week 9: Advanced Neural Models
+Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM)
+Transformers and attention mechanisms
+BERT and other pre-trained language models
+Week 10: Machine Translation
+Statistical Machine Translation
+Neural Machine Translation
+Evaluation of translation systems
+Week 11: Sentiment Analysis and Opinion Mining
+Sentiment classification
+Aspect-based sentiment analysis
+Opinion summarization
+Week 12: Information Retrieval and Extraction
+Search engines and relevance ranking
+Information extraction techniques
+Question answering systems
+Week 13: Dialogue Systems and Chatbots
+Task-oriented dialogue systems
+Open-domain chatbots
+Evaluation of dialogue systems
+Week 14: Ethics and Fairness in NLP
+Bias in NLP models
+Ethical considerations in NLP applications
+Fairness, accountability, and transparency
+Week 15: Current Trends and Research in NLP
+Review of recent NLP research papers
+Discussion on future directions
+Final project presentations
+Assessments:
+Homework Assignments (40%): Regular assignments covering implementation and theory.
+Midterm Exam (20%): Written exam assessing understanding of core concepts.
+Final Project (30%): A comprehensive project on an NLP task, including a written report and presentation.
+Class Participation (10%): Active participation in discussions and activities.
+Recommended Textbooks and Resources:
+"Speech and Language Processing" by Daniel Jurafsky and James H. Martin
+"Natural Language Processing with Python" by Steven Bird, Ewan Klein, and Edward Loper
+Recent research papers and articles (provided throughout the course)
+Tools and Software:
+Python (with libraries such as NLTK, SpaCy, Scikit-learn, TensorFlow, PyTorch)
+Jupyter Notebooks for assignments and projects
+Academic Integrity:
+Students are expected to adhere to the highest standards of academic integrity. Plagiarism and cheating will not be tolerated and will result in disciplinary actions.
+
